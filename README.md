@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Mobile Application Development with flutter
 - 💞️ I’m looking to collaborate on Application Development projects
-- 📫 reach me on rkrpt1357@gmail.com
+
 
 
 <!---
